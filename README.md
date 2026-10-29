@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Neha Bhaskar 👋
 
-<!--
-**nehabhaskar137/nehabhaskar137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Python & Django | Angular
 
-Here are some ideas to get you started:
+I'm an MCA graduate interested in building practical web applications and improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Project:** TastyBytes — a food delivery web application
+- 🌱 **Currently learning:** UI/UX,C#
+- 💻 **Technologies:** Python, Django, Angular, TypeScript, HTML, CSS
+- 🎯 **Goal:** Grow as a Software Engineer and contribute to real-world projects
+- 📂 **Projects:** [TastyBytes](https://github.com/nehabhaskar137/TastyBytes)
+
+### Connect with me
+
+- GitHub: [@nehabhaskar137](https://github.com/nehabhaskar137)
